@@ -282,4 +282,3 @@ d3.request("data/precip-anim/geotiffs/000000.nc.tif").responseType("arraybuffer"
       }
     });
 });
-}, 500);
